@@ -1,3 +1,1534 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": 1,
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "category": "fiction",
+      "description": "A heartwarming story about a pig named Wilbur and his friendship with a spider named Charlotte who saves his life.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "Who is Wilbur?",
+          "options": ["A pig", "A horse", "A dog", "A spider"],
+          "answer": "A pig"
+        },
+        {
+          "question": "What is Charlotte?",
+          "options": ["A spider", "A rat", "A goose", "A sheep"],
+          "answer": "A spider"
+        },
+        {
+          "question": "What does Charlotte write in her web to save Wilbur?",
+          "options": ["Words praising Wilbur", "A picture of a pig", "Her name", "Nothing"],
+          "answer": "Words praising Wilbur"
+        },
+        {
+          "question": "Where does Wilbur live?",
+          "options": ["On a farm", "In a zoo", "In a forest", "In a house"],
+          "answer": "On a farm"
+        },
+        {
+          "question": "Who is Fern?",
+          "options": ["The girl who saves Wilbur", "Charlotte's sister", "A farmer", "A goose"],
+          "answer": "The girl who saves Wilbur"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Because of Winn-Dixie",
+      "author": "Kate DiCamillo",
+      "category": "fiction",
+      "description": "A girl named Opal finds a stray dog at a supermarket and names him after the store, leading to new friendships.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "Where does Opal find Winn-Dixie?",
+          "options": ["At a grocery store", "At school", "In the park", "At her house"],
+          "answer": "At a grocery store"
+        },
+        {
+          "question": "What kind of animal is Winn-Dixie?",
+          "options": ["A dog", "A cat", "A rabbit", "A hamster"],
+          "answer": "A dog"
+        },
+        {
+          "question": "What is Opal's father's job?",
+          "options": ["A preacher", "A teacher", "A doctor", "A farmer"],
+          "answer": "A preacher"
+        },
+        {
+          "question": "What is special about Winn-Dixie's smile?",
+          "options": ["He can smile like a person", "His teeth are gold", "He has no teeth", "He never smiles"],
+          "answer": "He can smile like a person"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Tale of Despereaux",
+      "author": "Kate DiCamillo",
+      "category": "fiction",
+      "description": "A brave small mouse named Despereaux falls in love with a princess and goes on a quest to rescue her.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What kind of animal is Despereaux?",
+          "options": ["A mouse", "A rat", "A hamster", "A squirrel"],
+          "answer": "A mouse"
+        },
+        {
+          "question": "What makes Despereaux different from other mice?",
+          "options": ["He has big ears and is brave", "He is very large", "He can fly", "He is invisible"],
+          "answer": "He has big ears and is brave"
+        },
+        {
+          "question": "Who does Despereaux fall in love with?",
+          "options": ["Princess Pea", "A girl mouse", "The queen", "A kitchen maid"],
+          "answer": "Princess Pea"
+        },
+        {
+          "question": "Where is Despereaux sent as punishment?",
+          "options": ["The dungeon", "The forest", "Another castle", "The kitchen"],
+          "answer": "The dungeon"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ramona Quimby, Age 8",
+      "author": "Beverly Cleary",
+      "category": "fiction",
+      "description": "Eight-year-old Ramona navigates third grade, family changes, and growing up in this funny and relatable story.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "How old is Ramona in this book?",
+          "options": ["8 years old", "6 years old", "10 years old", "7 years old"],
+          "answer": "8 years old"
+        },
+        {
+          "question": "What grade is Ramona in?",
+          "options": ["Third grade", "Second grade", "Fourth grade", "First grade"],
+          "answer": "Third grade"
+        },
+        {
+          "question": "Who is Ramona's older sister?",
+          "options": ["Beezus", "Susan", "Mary", "Howie"],
+          "answer": "Beezus"
+        },
+        {
+          "question": "What does Ramona crack on her head at lunch?",
+          "options": ["A hard-boiled egg", "A raw egg", "A coconut", "A walnut"],
+          "answer": "A hard-boiled egg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pippi Longstocking",
+      "author": "Astrid Lindgren",
+      "category": "fiction",
+      "description": "A super-strong girl with red pigtails lives alone with her horse and monkey, having wild adventures.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What color is Pippi's hair?",
+          "options": ["Red", "Brown", "Blonde", "Black"],
+          "answer": "Red"
+        },
+        {
+          "question": "What is the name of Pippi's horse?",
+          "options": ["Horse", "Sparkle", "Thunder", "Star"],
+          "answer": "Horse"
+        },
+        {
+          "question": "What is special about Pippi's strength?",
+          "options": ["She is super strong", "She is very weak", "She is normal", "She has no strength"],
+          "answer": "She is super strong"
+        },
+        {
+          "question": "Who are Pippi's neighbors?",
+          "options": ["Tommy and Annika", "Jack and Jill", "Sam and Sue", "Peter and Wendy"],
+          "answer": "Tommy and Annika"
+        },
+        {
+          "question": "What kind of pet monkey does Pippi have?",
+          "options": ["Mr. Nilsson", "George", "Bubbles", "Max"],
+          "answer": "Mr. Nilsson"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "James and the Giant Peach",
+      "author": "Roald Dahl",
+      "category": "fiction",
+      "description": "James escapes his mean aunts by traveling inside a magical giant peach with friendly insect companions.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What fruit does James travel in?",
+          "options": ["A peach", "An apple", "An orange", "A watermelon"],
+          "answer": "A peach"
+        },
+        {
+          "question": "Who are James's cruel guardians?",
+          "options": ["Aunt Sponge and Aunt Spiker", "His stepmother", "His grandparents", "His cousins"],
+          "answer": "Aunt Sponge and Aunt Spiker"
+        },
+        {
+          "question": "What makes the peach grow so big?",
+          "options": ["Magic crystals", "Special water", "Sunlight", "Fertilizer"],
+          "answer": "Magic crystals"
+        },
+        {
+          "question": "Where does the giant peach land at the end?",
+          "options": ["On top of the Empire State Building", "In the ocean", "In a forest", "On a mountain"],
+          "answer": "On top of the Empire State Building"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "category": "fiction",
+      "description": "Sophie befriends the Big Friendly Giant who catches dreams and blows them into children's bedrooms.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What does BFG stand for?",
+          "options": ["Big Friendly Giant", "Big Fat Guy", "Best Friend Giant", "Brave Funny Giant"],
+          "answer": "Big Friendly Giant"
+        },
+        {
+          "question": "What does the BFG catch and give to children?",
+          "options": ["Dreams", "Stars", "Fireflies", "Butterflies"],
+          "answer": "Dreams"
+        },
+        {
+          "question": "What is the name of the girl who meets the BFG?",
+          "options": ["Sophie", "Sarah", "Sally", "Samantha"],
+          "answer": "Sophie"
+        },
+        {
+          "question": "What do the other giants eat?",
+          "options": ["Humans", "Animals", "Plants", "Rocks"],
+          "answer": "Humans"
+        },
+        {
+          "question": "What is the BFG's favorite drink?",
+          "options": ["Frobscottle", "Soda", "Milk", "Juice"],
+          "answer": "Frobscottle"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fantastic Mr. Fox",
+      "author": "Roald Dahl",
+      "category": "fiction",
+      "description": "A clever fox outsmarts three mean farmers to feed his family and help his animal friends.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What are the names of the three farmers?",
+          "options": ["Boggis, Bunce, and Bean", "Tom, Dick, and Harry", "Smith, Jones, and Brown", "Red, Blue, and Green"],
+          "answer": "Boggis, Bunce, and Bean"
+        },
+        {
+          "question": "What does Mr. Fox steal from the farmers?",
+          "options": ["Chickens and cider", "Money", "Tools", "Seeds"],
+          "answer": "Chickens and cider"
+        },
+        {
+          "question": "How does Mr. Fox escape the farmers?",
+          "options": ["By digging tunnels", "By flying", "By swimming", "By hiding in trees"],
+          "answer": "By digging tunnels"
+        },
+        {
+          "question": "What happens to Mr. Fox's tail?",
+          "options": ["The farmers shoot it off", "It falls off naturally", "Nothing happens to it", "He gives it away"],
+          "answer": "The farmers shoot it off"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Boxcar Children",
+      "author": "Gertrude Chandler Warner",
+      "category": "fiction",
+      "description": "Four orphaned siblings make a home in an abandoned boxcar and solve mysteries together.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "Where do the children live at the start of the story?",
+          "options": ["An abandoned boxcar", "A house", "A tent", "A cave"],
+          "answer": "An abandoned boxcar"
+        },
+        {
+          "question": "How many children are in the Alden family?",
+          "options": ["Four", "Three", "Five", "Two"],
+          "answer": "Four"
+        },
+        {
+          "question": "Who is the oldest of the Boxcar Children?",
+          "options": ["Henry", "Jessie", "Violet", "Benny"],
+          "answer": "Henry"
+        },
+        {
+          "question": "What pet do the children find?",
+          "options": ["A dog named Watch", "A cat named Whiskers", "A bird named Tweety", "A rabbit named Hoppy"],
+          "answer": "A dog named Watch"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "My Father's Dragon",
+      "author": "Ruth Stiles Gannett",
+      "category": "fiction",
+      "description": "A boy named Elmer goes to Wild Island to rescue a baby dragon being held captive by wild animals.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What is the main character's name?",
+          "options": ["Elmer", "James", "Henry", "Peter"],
+          "answer": "Elmer"
+        },
+        {
+          "question": "What animal does Elmer want to rescue?",
+          "options": ["A baby dragon", "A unicorn", "A tiger", "A monkey"],
+          "answer": "A baby dragon"
+        },
+        {
+          "question": "What is the name of the island?",
+          "options": ["Wild Island", "Dragon Island", "Magic Island", "Treasure Island"],
+          "answer": "Wild Island"
+        },
+        {
+          "question": "What does Elmer bring to distract the animals?",
+          "options": ["Lollipops and other treats", "Toys", "Books", "Nothing"],
+          "answer": "Lollipops and other treats"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Mouse and the Motorcycle",
+      "author": "Beverly Cleary",
+      "category": "fiction",
+      "description": "A mouse named Ralph discovers he can ride a toy motorcycle and befriends a boy named Keith.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What is the mouse's name?",
+          "options": ["Ralph", "Mickey", "Jerry", "Stuart"],
+          "answer": "Ralph"
+        },
+        {
+          "question": "What does Ralph learn to ride?",
+          "options": ["A toy motorcycle", "A toy car", "A skateboard", "A bicycle"],
+          "answer": "A toy motorcycle"
+        },
+        {
+          "question": "Where does the story take place?",
+          "options": ["A hotel", "A school", "A house", "A barn"],
+          "answer": "A hotel"
+        },
+        {
+          "question": "What sound must Ralph make for the motorcycle to work?",
+          "options": ["Pb-pb-b-b-b", "Vroom vroom", "Beep beep", "Zoom zoom"],
+          "answer": "Pb-pb-b-b-b"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Frindle",
+      "author": "Andrew Clements",
+      "category": "fiction",
+      "description": "Nick invents a new word for 'pen' called 'frindle' and it becomes famous across the country.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What word does Nick invent?",
+          "options": ["Frindle", "Pendle", "Writey", "Inker"],
+          "answer": "Frindle"
+        },
+        {
+          "question": "What does 'frindle' mean?",
+          "options": ["Pen", "Pencil", "Paper", "Book"],
+          "answer": "Pen"
+        },
+        {
+          "question": "Who is Nick's teacher who doesn't like the new word?",
+          "options": ["Mrs. Granger", "Mrs. Smith", "Mrs. Jones", "Mrs. Brown"],
+          "answer": "Mrs. Granger"
+        },
+        {
+          "question": "What happens to the word frindle?",
+          "options": ["It becomes famous and goes in the dictionary", "Everyone forgets it", "Only Nick uses it", "It is banned"],
+          "answer": "It becomes famous and goes in the dictionary"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Wild Robot",
+      "author": "Peter Brown",
+      "category": "fiction",
+      "description": "A robot named Roz washes up on an island and learns to survive by observing and befriending wild animals.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What is the robot's name?",
+          "options": ["Roz", "Rosie", "Rex", "Ruby"],
+          "answer": "Roz"
+        },
+        {
+          "question": "How does Roz end up on the island?",
+          "options": ["She washes up from a shipwreck", "She flies there", "She walks there", "She is built there"],
+          "answer": "She washes up from a shipwreck"
+        },
+        {
+          "question": "What baby animal does Roz adopt?",
+          "options": ["A gosling", "A puppy", "A kitten", "A bunny"],
+          "answer": "A gosling"
+        },
+        {
+          "question": "What is the name of the gosling?",
+          "options": ["Brightbill", "Sunshine", "Fluffy", "Goldie"],
+          "answer": "Brightbill"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Mr. Popper's Penguins",
+      "author": "Richard Atwater",
+      "category": "fiction",
+      "description": "A house painter receives a penguin from Antarctica and ends up with twelve performing penguins.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What is Mr. Popper's job?",
+          "options": ["House painter", "Teacher", "Doctor", "Chef"],
+          "answer": "House painter"
+        },
+        {
+          "question": "Where does Mr. Popper's first penguin come from?",
+          "options": ["Antarctica", "The zoo", "The pet store", "The circus"],
+          "answer": "Antarctica"
+        },
+        {
+          "question": "What is the name of the first penguin?",
+          "options": ["Captain Cook", "Mr. Penguin", "Waddles", "Flipper"],
+          "answer": "Captain Cook"
+        },
+        {
+          "question": "How many penguins do the Poppers end up with?",
+          "options": ["Twelve", "Two", "Six", "Twenty"],
+          "answer": "Twelve"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Chocolate Touch",
+      "author": "Patrick Skene Catling",
+      "category": "fiction",
+      "description": "John Midas discovers everything he touches with his lips turns to chocolate, causing big problems.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What happens to everything John touches with his lips?",
+          "options": ["It turns to chocolate", "It turns to gold", "It disappears", "It grows bigger"],
+          "answer": "It turns to chocolate"
+        },
+        {
+          "question": "What is John's last name?",
+          "options": ["Midas", "Smith", "Brown", "Jones"],
+          "answer": "Midas"
+        },
+        {
+          "question": "Why is the chocolate touch a problem?",
+          "options": ["He can't eat real food or kiss his mom", "He gets sick", "People are jealous", "It costs too much"],
+          "answer": "He can't eat real food or kiss his mom"
+        },
+        {
+          "question": "How did John get the chocolate touch?",
+          "options": ["From eating a magic chocolate", "A wizard cursed him", "He was born with it", "From a science experiment"],
+          "answer": "From eating a magic chocolate"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Magic Tree House: Dinosaurs Before Dark",
+      "author": "Mary Pope Osborne",
+      "category": "fiction",
+      "description": "Jack and Annie discover a magic tree house that takes them back in time to the age of dinosaurs.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "What are the names of the main characters?",
+          "options": ["Jack and Annie", "Tom and Sue", "Sam and Emma", "Max and Lily"],
+          "answer": "Jack and Annie"
+        },
+        {
+          "question": "Where does the magic tree house take them?",
+          "options": ["To the time of dinosaurs", "To space", "To the future", "To another country"],
+          "answer": "To the time of dinosaurs"
+        },
+        {
+          "question": "What dinosaur chases Jack and Annie?",
+          "options": ["Tyrannosaurus Rex", "Triceratops", "Brachiosaurus", "Velociraptor"],
+          "answer": "Tyrannosaurus Rex"
+        },
+        {
+          "question": "Who owns the magic tree house?",
+          "options": ["Morgan le Fay", "A wizard", "Their parents", "Nobody"],
+          "answer": "Morgan le Fay"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Magic Tree House: The Knight at Dawn",
+      "author": "Mary Pope Osborne",
+      "category": "fiction",
+      "description": "Jack and Annie travel back to medieval times and explore a castle with knights and a secret passage.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "What time period do Jack and Annie visit?",
+          "options": ["Medieval times", "Ancient Egypt", "The future", "The Ice Age"],
+          "answer": "Medieval times"
+        },
+        {
+          "question": "What do Jack and Annie explore?",
+          "options": ["A castle", "A spaceship", "A pyramid", "A jungle"],
+          "answer": "A castle"
+        },
+        {
+          "question": "What kind of warriors do they meet?",
+          "options": ["Knights", "Samurai", "Vikings", "Pirates"],
+          "answer": "Knights"
+        },
+        {
+          "question": "How do Jack and Annie escape danger?",
+          "options": ["Through a secret passage", "By flying", "By swimming", "By running fast"],
+          "answer": "Through a secret passage"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Stuart Little",
+      "author": "E.B. White",
+      "category": "fiction",
+      "description": "A mouse named Stuart is born to a human family in New York and goes on adventures to find his bird friend.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What kind of animal is Stuart?",
+          "options": ["A mouse", "A rat", "A hamster", "A rabbit"],
+          "answer": "A mouse"
+        },
+        {
+          "question": "What is unusual about Stuart's family?",
+          "options": ["They are humans", "They are all mice", "They live in the forest", "They can fly"],
+          "answer": "They are humans"
+        },
+        {
+          "question": "Who is Stuart's bird friend?",
+          "options": ["Margalo", "Tweety", "Polly", "Robin"],
+          "answer": "Margalo"
+        },
+        {
+          "question": "Where does Stuart live?",
+          "options": ["New York City", "Los Angeles", "Chicago", "Boston"],
+          "answer": "New York City"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "category": "fiction",
+      "description": "A brilliant girl with neglectful parents discovers she has telekinetic powers and uses them against a cruel headmistress.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What is special about Matilda?",
+          "options": ["She is extremely smart and has powers", "She can fly", "She is very strong", "She can turn invisible"],
+          "answer": "She is extremely smart and has powers"
+        },
+        {
+          "question": "Who is the mean headmistress?",
+          "options": ["Miss Trunchbull", "Miss Smith", "Miss Jones", "Miss Brown"],
+          "answer": "Miss Trunchbull"
+        },
+        {
+          "question": "Who is Matilda's kind teacher?",
+          "options": ["Miss Honey", "Miss Sweet", "Miss Lovely", "Miss Kind"],
+          "answer": "Miss Honey"
+        },
+        {
+          "question": "What power does Matilda develop?",
+          "options": ["Moving things with her mind", "Flying", "Super strength", "Invisibility"],
+          "answer": "Moving things with her mind"
+        },
+        {
+          "question": "How do Matilda's parents treat her?",
+          "options": ["They ignore and mistreat her", "They love her very much", "They are strict but fair", "They homeschool her"],
+          "answer": "They ignore and mistreat her"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Borrowers",
+      "author": "Mary Norton",
+      "category": "fiction",
+      "description": "Tiny people called Borrowers live under the floor of a house and 'borrow' things from the humans above.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What are Borrowers?",
+          "options": ["Tiny people who live in houses", "Giants", "Robots", "Ghosts"],
+          "answer": "Tiny people who live in houses"
+        },
+        {
+          "question": "What is the main Borrower girl's name?",
+          "options": ["Arrietty", "Alice", "Amy", "Anna"],
+          "answer": "Arrietty"
+        },
+        {
+          "question": "Why are they called Borrowers?",
+          "options": ["They borrow things from humans", "They lend things", "They buy things", "They steal things"],
+          "answer": "They borrow things from humans"
+        },
+        {
+          "question": "Where do the Borrowers live?",
+          "options": ["Under the floor of a house", "In the attic", "In the garden", "In the walls"],
+          "answer": "Under the floor of a house"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Sideways Stories from Wayside School",
+      "author": "Louis Sachar",
+      "category": "fiction",
+      "description": "Funny stories about a school that was accidentally built sideways with classrooms stacked on top of each other.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What is unusual about Wayside School?",
+          "options": ["It was built sideways with 30 floors", "It is underground", "It floats in the air", "It moves around"],
+          "answer": "It was built sideways with 30 floors"
+        },
+        {
+          "question": "How many stories does Wayside School have?",
+          "options": ["30 stories", "10 stories", "50 stories", "5 stories"],
+          "answer": "30 stories"
+        },
+        {
+          "question": "What is special about the 19th floor?",
+          "options": ["There is no 19th floor", "It has a pool", "It is haunted", "It is the biggest"],
+          "answer": "There is no 19th floor"
+        },
+        {
+          "question": "Who is the teacher on the 30th floor?",
+          "options": ["Mrs. Jewls", "Mrs. Smith", "Mrs. Johnson", "Mrs. Davis"],
+          "answer": "Mrs. Jewls"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "The Hundred Dresses",
+      "author": "Eleanor Estes",
+      "category": "fiction",
+      "description": "Wanda claims to have a hundred dresses at home, but her classmates tease her until they learn an important lesson.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "How many dresses does Wanda say she has?",
+          "options": ["One hundred", "Ten", "Fifty", "Twenty"],
+          "answer": "One hundred"
+        },
+        {
+          "question": "Why do the other girls tease Wanda?",
+          "options": ["She wears the same dress every day", "She is too tall", "She is too smart", "She talks too much"],
+          "answer": "She wears the same dress every day"
+        },
+        {
+          "question": "What do the hundred dresses turn out to be?",
+          "options": ["Drawings of dresses", "Real dresses", "Imaginary dresses", "Doll dresses"],
+          "answer": "Drawings of dresses"
+        },
+        {
+          "question": "What lesson do the girls learn?",
+          "options": ["To be kind and not tease others", "To share their clothes", "To draw better", "To be quiet"],
+          "answer": "To be kind and not tease others"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Sarah, Plain and Tall",
+      "author": "Patricia MacLachlan",
+      "category": "fiction",
+      "description": "A mail-order bride from Maine comes to live with a widowed farmer and his two children on the prairie.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "Where is Sarah from?",
+          "options": ["Maine", "Texas", "California", "New York"],
+          "answer": "Maine"
+        },
+        {
+          "question": "What does Sarah miss about her home?",
+          "options": ["The sea", "The mountains", "The city", "Her friends"],
+          "answer": "The sea"
+        },
+        {
+          "question": "How does the family find Sarah?",
+          "options": ["Through a newspaper ad", "At school", "At church", "She is a neighbor"],
+          "answer": "Through a newspaper ad"
+        },
+        {
+          "question": "How many children does Papa have?",
+          "options": ["Two", "Three", "One", "Four"],
+          "answer": "Two"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "The Miraculous Journey of Edward Tulane",
+      "author": "Kate DiCamillo",
+      "category": "fiction",
+      "description": "A china rabbit toy is separated from his owner and goes on a long journey, learning about love along the way.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What kind of toy is Edward Tulane?",
+          "options": ["A china rabbit", "A teddy bear", "A wooden puppet", "A cloth doll"],
+          "answer": "A china rabbit"
+        },
+        {
+          "question": "Who is Edward's first owner?",
+          "options": ["Abilene", "Sarah", "Emily", "Grace"],
+          "answer": "Abilene"
+        },
+        {
+          "question": "What does Edward learn during his journey?",
+          "options": ["How to love", "How to talk", "How to walk", "How to fly"],
+          "answer": "How to love"
+        },
+        {
+          "question": "How does Edward get separated from Abilene?",
+          "options": ["He falls off a ship", "He gets lost in a store", "He is stolen", "He runs away"],
+          "answer": "He falls off a ship"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "category": "fiction",
+      "description": "A lonely girl discovers a hidden garden and brings it back to life, healing herself and others in the process.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What is the main character's name?",
+          "options": ["Mary", "Sarah", "Emma", "Jane"],
+          "answer": "Mary"
+        },
+        {
+          "question": "What does Mary find hidden in the estate?",
+          "options": ["A secret garden", "A treasure chest", "A hidden room", "A magic book"],
+          "answer": "A secret garden"
+        },
+        {
+          "question": "Who is Colin?",
+          "options": ["Mary's sick cousin", "Mary's brother", "The gardener", "A servant"],
+          "answer": "Mary's sick cousin"
+        },
+        {
+          "question": "Who helps Mary take care of the garden?",
+          "options": ["Dickon", "Ben", "Tom", "Jack"],
+          "answer": "Dickon"
+        },
+        {
+          "question": "Where is the secret garden located?",
+          "options": ["Behind a locked door covered in ivy", "In the forest", "On a mountain", "Under the house"],
+          "answer": "Behind a locked door covered in ivy"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Who Was Albert Einstein?",
+      "author": "Jess Brallier",
+      "category": "nonfiction",
+      "description": "The life story of the famous scientist who developed the theory of relativity and changed our understanding of physics.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What was Albert Einstein famous for?",
+          "options": ["Being a brilliant scientist", "Being a famous artist", "Being a president", "Being an athlete"],
+          "answer": "Being a brilliant scientist"
+        },
+        {
+          "question": "What famous equation did Einstein create?",
+          "options": ["E=mc²", "A+B=C", "1+1=2", "X=Y"],
+          "answer": "E=mc²"
+        },
+        {
+          "question": "Where was Einstein born?",
+          "options": ["Germany", "United States", "France", "England"],
+          "answer": "Germany"
+        },
+        {
+          "question": "What subject did Einstein study?",
+          "options": ["Physics", "Art", "Music", "History"],
+          "answer": "Physics"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Who Was Amelia Earhart?",
+      "author": "Kate Boehm Jerome",
+      "category": "nonfiction",
+      "description": "The story of the brave female pilot who set many aviation records and mysteriously disappeared over the Pacific.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What was Amelia Earhart famous for?",
+          "options": ["Being a pilot", "Being a singer", "Being a writer", "Being an actress"],
+          "answer": "Being a pilot"
+        },
+        {
+          "question": "What did Amelia do that no woman had done before?",
+          "options": ["Flew solo across the Atlantic Ocean", "Went to space", "Climbed Mount Everest", "Sailed around the world"],
+          "answer": "Flew solo across the Atlantic Ocean"
+        },
+        {
+          "question": "What happened to Amelia during her last flight?",
+          "options": ["She disappeared and was never found", "She landed safely", "She retired from flying", "She became a teacher"],
+          "answer": "She disappeared and was never found"
+        },
+        {
+          "question": "What ocean was Amelia flying over when she disappeared?",
+          "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+          "answer": "Pacific Ocean"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Who Was Neil Armstrong?",
+      "author": "Roberta Edwards",
+      "category": "nonfiction",
+      "description": "The biography of the astronaut who became the first person to walk on the moon in 1969.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What made Neil Armstrong famous?",
+          "options": ["Being the first person to walk on the moon", "Inventing the airplane", "Discovering a new planet", "Building a rocket"],
+          "answer": "Being the first person to walk on the moon"
+        },
+        {
+          "question": "What year did Neil Armstrong walk on the moon?",
+          "options": ["1969", "1959", "1979", "1989"],
+          "answer": "1969"
+        },
+        {
+          "question": "What was the name of the mission?",
+          "options": ["Apollo 11", "Apollo 13", "Space Shuttle", "Mercury 1"],
+          "answer": "Apollo 11"
+        },
+        {
+          "question": "What famous words did Neil say on the moon?",
+          "options": ["One small step for man, one giant leap for mankind", "Hello moon", "I made it", "This is amazing"],
+          "answer": "One small step for man, one giant leap for mankind"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Who Was Martin Luther King Jr.?",
+      "author": "Bonnie Bader",
+      "category": "nonfiction",
+      "description": "The inspiring life of the civil rights leader who fought for equality and justice through peaceful protest.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What did Martin Luther King Jr. fight for?",
+          "options": ["Equal rights for all people", "Space exploration", "Animal rights", "Environmental protection"],
+          "answer": "Equal rights for all people"
+        },
+        {
+          "question": "What was Martin Luther King Jr.'s famous speech?",
+          "options": ["I Have a Dream", "I Have a Plan", "I Have a Hope", "I Have a Wish"],
+          "answer": "I Have a Dream"
+        },
+        {
+          "question": "How did Martin Luther King Jr. believe in fighting for change?",
+          "options": ["Through peaceful protest", "Through violence", "Through hiding", "Through ignoring problems"],
+          "answer": "Through peaceful protest"
+        },
+        {
+          "question": "What holiday honors Martin Luther King Jr.?",
+          "options": ["Martin Luther King Jr. Day", "Presidents Day", "Memorial Day", "Labor Day"],
+          "answer": "Martin Luther King Jr. Day"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Who Was Rosa Parks?",
+      "author": "Yona Zeldis McDonough",
+      "category": "nonfiction",
+      "description": "The story of the brave woman who refused to give up her bus seat and helped start the civil rights movement.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What did Rosa Parks refuse to do?",
+          "options": ["Give up her bus seat", "Pay for her ticket", "Get on the bus", "Talk to the driver"],
+          "answer": "Give up her bus seat"
+        },
+        {
+          "question": "What city did this happen in?",
+          "options": ["Montgomery, Alabama", "New York City", "Los Angeles", "Chicago"],
+          "answer": "Montgomery, Alabama"
+        },
+        {
+          "question": "What did Rosa Parks' action help start?",
+          "options": ["The civil rights movement", "A new bus company", "A holiday", "A parade"],
+          "answer": "The civil rights movement"
+        },
+        {
+          "question": "What is Rosa Parks called?",
+          "options": ["Mother of the civil rights movement", "Queen of America", "First Lady", "Bus Driver"],
+          "answer": "Mother of the civil rights movement"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Who Was Steve Jobs?",
+      "author": "Pam Pollack",
+      "category": "nonfiction",
+      "description": "The life of the visionary who co-founded Apple and revolutionized personal computers, phones, and digital media.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What company did Steve Jobs co-found?",
+          "options": ["Apple", "Microsoft", "Google", "Amazon"],
+          "answer": "Apple"
+        },
+        {
+          "question": "What device did Steve Jobs help create that changed phones?",
+          "options": ["iPhone", "Television", "Radio", "Calculator"],
+          "answer": "iPhone"
+        },
+        {
+          "question": "Where did Steve Jobs start Apple?",
+          "options": ["In a garage", "In a school", "In a big office", "In a factory"],
+          "answer": "In a garage"
+        },
+        {
+          "question": "What type of company is Apple?",
+          "options": ["Technology company", "Food company", "Clothing company", "Car company"],
+          "answer": "Technology company"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "National Geographic Kids: Weird But True",
+      "author": "National Geographic",
+      "category": "nonfiction",
+      "description": "A collection of hundreds of amazing, wacky, and surprising facts about animals, nature, and the world.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "What type of book is Weird But True?",
+          "options": ["A fact book", "A story book", "A coloring book", "A comic book"],
+          "answer": "A fact book"
+        },
+        {
+          "question": "What makes this book fun to read?",
+          "options": ["It has surprising and unusual facts", "It has scary stories", "It has recipes", "It has puzzles only"],
+          "answer": "It has surprising and unusual facts"
+        },
+        {
+          "question": "Who publishes this book?",
+          "options": ["National Geographic", "Disney", "Marvel", "Nickelodeon"],
+          "answer": "National Geographic"
+        },
+        {
+          "question": "What kinds of topics are in this book?",
+          "options": ["Animals, nature, and the world", "Only sports", "Only music", "Only movies"],
+          "answer": "Animals, nature, and the world"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "National Geographic Kids: Sharks",
+      "author": "Anne Schreiber",
+      "category": "nonfiction",
+      "description": "Learn all about sharks including different species, how they hunt, and why they are important to the ocean.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What type of animal is a shark?",
+          "options": ["A fish", "A mammal", "A reptile", "An amphibian"],
+          "answer": "A fish"
+        },
+        {
+          "question": "What is the largest type of shark?",
+          "options": ["Whale shark", "Great white shark", "Hammerhead shark", "Tiger shark"],
+          "answer": "Whale shark"
+        },
+        {
+          "question": "How many teeth can sharks have?",
+          "options": ["Thousands in their lifetime", "Just 32 like humans", "Only 10", "No teeth"],
+          "answer": "Thousands in their lifetime"
+        },
+        {
+          "question": "Where do sharks live?",
+          "options": ["In oceans", "In lakes only", "On land", "In the sky"],
+          "answer": "In oceans"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "National Geographic Kids: Space Encyclopedia",
+      "author": "National Geographic",
+      "category": "nonfiction",
+      "description": "A comprehensive guide to our solar system, galaxies, stars, and the mysteries of space exploration.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What is the closest star to Earth?",
+          "options": ["The Sun", "The Moon", "Mars", "Jupiter"],
+          "answer": "The Sun"
+        },
+        {
+          "question": "How many planets are in our solar system?",
+          "options": ["Eight", "Nine", "Ten", "Seven"],
+          "answer": "Eight"
+        },
+        {
+          "question": "What is the name of our galaxy?",
+          "options": ["The Milky Way", "Andromeda", "The Big Dipper", "The North Star"],
+          "answer": "The Milky Way"
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+          "answer": "Mars"
+        },
+        {
+          "question": "What do astronauts wear in space?",
+          "options": ["Space suits", "Regular clothes", "Swimsuits", "Pajamas"],
+          "answer": "Space suits"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "DK Children's Encyclopedia",
+      "author": "DK Publishing",
+      "category": "nonfiction",
+      "description": "A comprehensive reference book covering science, history, geography, and many other subjects for young readers.",
+      "coins": 15,
+      "questions": [
+        {
+          "question": "What is an encyclopedia?",
+          "options": ["A book with information about many topics", "A story book", "A comic book", "A coloring book"],
+          "answer": "A book with information about many topics"
+        },
+        {
+          "question": "What subjects can you learn about in this book?",
+          "options": ["Science, history, and geography", "Only cooking", "Only sports", "Only music"],
+          "answer": "Science, history, and geography"
+        },
+        {
+          "question": "How is information organized in an encyclopedia?",
+          "options": ["Alphabetically or by topic", "Randomly", "By color", "By size"],
+          "answer": "Alphabetically or by topic"
+        },
+        {
+          "question": "Who publishes this encyclopedia?",
+          "options": ["DK Publishing", "Marvel Comics", "Disney", "Nickelodeon"],
+          "answer": "DK Publishing"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "The Magic School Bus Inside the Human Body",
+      "author": "Joanna Cole",
+      "category": "nonfiction",
+      "description": "Ms. Frizzle takes her class on a wild ride inside the human body to learn how it works.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "Who is the teacher in the Magic School Bus?",
+          "options": ["Ms. Frizzle", "Mrs. Smith", "Mr. Johnson", "Mrs. Brown"],
+          "answer": "Ms. Frizzle"
+        },
+        {
+          "question": "What is special about the school bus?",
+          "options": ["It can shrink and go anywhere", "It can fly to space", "It is very fast", "It is underwater"],
+          "answer": "It can shrink and go anywhere"
+        },
+        {
+          "question": "Where does the bus go in this book?",
+          "options": ["Inside the human body", "To outer space", "Under the ocean", "To a volcano"],
+          "answer": "Inside the human body"
+        },
+        {
+          "question": "What do the students learn about?",
+          "options": ["How the body works", "How to cook", "How to build things", "How to play sports"],
+          "answer": "How the body works"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "The Magic School Bus Lost in the Solar System",
+      "author": "Joanna Cole",
+      "category": "nonfiction",
+      "description": "Ms. Frizzle's class blasts off into space to explore the planets and learn about our solar system.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "Where does the Magic School Bus go in this book?",
+          "options": ["Into outer space", "Inside the human body", "Under the ocean", "Into a volcano"],
+          "answer": "Into outer space"
+        },
+        {
+          "question": "What does the class learn about?",
+          "options": ["The planets and solar system", "Animals", "Plants", "History"],
+          "answer": "The planets and solar system"
+        },
+        {
+          "question": "Which planet has rings around it?",
+          "options": ["Saturn", "Mars", "Venus", "Mercury"],
+          "answer": "Saturn"
+        },
+        {
+          "question": "What is the sun?",
+          "options": ["A star", "A planet", "A moon", "A comet"],
+          "answer": "A star"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Who Would Win? T-Rex vs Velociraptor",
+      "author": "Jerry Pallotta",
+      "category": "nonfiction",
+      "description": "Compare two famous dinosaurs and learn about their size, speed, weapons, and who might win in a battle.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "Which dinosaur is bigger?",
+          "options": ["T-Rex", "Velociraptor", "They are the same size", "Neither is a dinosaur"],
+          "answer": "T-Rex"
+        },
+        {
+          "question": "Which dinosaur is faster?",
+          "options": ["Velociraptor", "T-Rex", "They are equally fast", "Neither can run"],
+          "answer": "Velociraptor"
+        },
+        {
+          "question": "What are velociraptors known for?",
+          "options": ["Sharp claws and speed", "Long necks", "Flying", "Swimming"],
+          "answer": "Sharp claws and speed"
+        },
+        {
+          "question": "What does T-Rex stand for?",
+          "options": ["Tyrannosaurus Rex", "Tall Rex", "Terrible Rex", "Tiny Rex"],
+          "answer": "Tyrannosaurus Rex"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "I Am Jane Goodall",
+      "author": "Brad Meltzer",
+      "category": "nonfiction",
+      "description": "The inspiring story of the scientist who lived with chimpanzees and became the world's leading expert on them.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What animals did Jane Goodall study?",
+          "options": ["Chimpanzees", "Lions", "Elephants", "Dolphins"],
+          "answer": "Chimpanzees"
+        },
+        {
+          "question": "Where did Jane Goodall do her research?",
+          "options": ["Africa", "South America", "Australia", "Antarctica"],
+          "answer": "Africa"
+        },
+        {
+          "question": "What did Jane discover about chimpanzees?",
+          "options": ["They use tools", "They can fly", "They live in water", "They only eat meat"],
+          "answer": "They use tools"
+        },
+        {
+          "question": "What does Jane Goodall work to protect?",
+          "options": ["Animals and the environment", "Buildings", "Cars", "Computers"],
+          "answer": "Animals and the environment"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "I Am Helen Keller",
+      "author": "Brad Meltzer",
+      "category": "nonfiction",
+      "description": "The remarkable story of Helen Keller who was deaf and blind but became a famous author and activist.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What challenges did Helen Keller face?",
+          "options": ["She was deaf and blind", "She could not walk", "She was very short", "She could not speak any language"],
+          "answer": "She was deaf and blind"
+        },
+        {
+          "question": "Who was Helen Keller's teacher?",
+          "options": ["Anne Sullivan", "Mary Smith", "Jane Doe", "Sarah Brown"],
+          "answer": "Anne Sullivan"
+        },
+        {
+          "question": "What did Helen learn to do?",
+          "options": ["Read and communicate", "Fly airplanes", "Paint pictures", "Play sports"],
+          "answer": "Read and communicate"
+        },
+        {
+          "question": "What did Helen Keller become?",
+          "options": ["A famous author and speaker", "A doctor", "A pilot", "A chef"],
+          "answer": "A famous author and speaker"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "I Am Walt Disney",
+      "author": "Brad Meltzer",
+      "category": "nonfiction",
+      "description": "The story of Walt Disney who created Mickey Mouse and built the most famous theme parks in the world.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What famous character did Walt Disney create?",
+          "options": ["Mickey Mouse", "Bugs Bunny", "SpongeBob", "Pikachu"],
+          "answer": "Mickey Mouse"
+        },
+        {
+          "question": "What company did Walt Disney start?",
+          "options": ["The Walt Disney Company", "Warner Bros", "Universal", "Pixar"],
+          "answer": "The Walt Disney Company"
+        },
+        {
+          "question": "What theme park did Walt Disney create?",
+          "options": ["Disneyland", "Six Flags", "SeaWorld", "Legoland"],
+          "answer": "Disneyland"
+        },
+        {
+          "question": "What was Walt Disney's first full-length animated movie?",
+          "options": ["Snow White", "Cinderella", "The Lion King", "Frozen"],
+          "answer": "Snow White"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "The Boy Who Harnessed the Wind (Young Readers Edition)",
+      "author": "William Kamkwamba",
+      "category": "nonfiction",
+      "description": "The true story of a boy in Malawi who built a windmill from scraps to bring electricity to his village.",
+      "coins": 12,
+      "questions": [
+        {
+          "question": "What did William build?",
+          "options": ["A windmill", "A car", "A robot", "A bridge"],
+          "answer": "A windmill"
+        },
+        {
+          "question": "What country is William from?",
+          "options": ["Malawi", "United States", "France", "Japan"],
+          "answer": "Malawi"
+        },
+        {
+          "question": "What did William use to build his windmill?",
+          "options": ["Scraps and junk materials", "Brand new parts", "Gold and silver", "Plastic toys"],
+          "answer": "Scraps and junk materials"
+        },
+        {
+          "question": "What did the windmill provide for William's village?",
+          "options": ["Electricity", "Water", "Food", "Clothing"],
+          "answer": "Electricity"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "National Geographic Kids: Volcanoes",
+      "author": "Anne Schreiber",
+      "category": "nonfiction",
+      "description": "Learn how volcanoes form, why they erupt, and discover famous volcanoes around the world.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What comes out of a volcano when it erupts?",
+          "options": ["Lava and ash", "Water", "Snow", "Sand"],
+          "answer": "Lava and ash"
+        },
+        {
+          "question": "What is lava?",
+          "options": ["Hot melted rock", "Cold water", "Liquid metal", "Thick mud"],
+          "answer": "Hot melted rock"
+        },
+        {
+          "question": "Where are many volcanoes found?",
+          "options": ["Around the Pacific Ocean", "Only in Antarctica", "Only in deserts", "In the middle of oceans only"],
+          "answer": "Around the Pacific Ocean"
+        },
+        {
+          "question": "What is a volcano called that hasn't erupted in a long time?",
+          "options": ["Dormant", "Active", "Extinct", "New"],
+          "answer": "Dormant"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "National Geographic Kids: Weather",
+      "author": "Kristin Baird Rattini",
+      "category": "nonfiction",
+      "description": "Explore different types of weather including storms, rain, snow, and how weather forecasts are made.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What is weather?",
+          "options": ["The conditions outside like rain, sun, or snow", "A type of food", "A kind of animal", "A sport"],
+          "answer": "The conditions outside like rain, sun, or snow"
+        },
+        {
+          "question": "What do meteorologists do?",
+          "options": ["Study and predict weather", "Study animals", "Study plants", "Study rocks"],
+          "answer": "Study and predict weather"
+        },
+        {
+          "question": "What causes rain?",
+          "options": ["Water evaporating and forming clouds", "The moon", "Wind only", "Trees"],
+          "answer": "Water evaporating and forming clouds"
+        },
+        {
+          "question": "What is a tornado?",
+          "options": ["A spinning column of air", "A type of cloud", "A rain storm", "A snowstorm"],
+          "answer": "A spinning column of air"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "DK Find Out! Animals",
+      "author": "DK Publishing",
+      "category": "nonfiction",
+      "description": "Discover amazing facts about animals from all over the world, including mammals, birds, fish, and insects.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "What is a mammal?",
+          "options": ["An animal that feeds milk to its babies", "An animal that lays eggs", "An animal with scales", "An animal that lives in water only"],
+          "answer": "An animal that feeds milk to its babies"
+        },
+        {
+          "question": "What do all animals need to survive?",
+          "options": ["Food, water, and shelter", "Only sunlight", "Only air", "Only love"],
+          "answer": "Food, water, and shelter"
+        },
+        {
+          "question": "What is the largest animal on Earth?",
+          "options": ["Blue whale", "Elephant", "Giraffe", "Shark"],
+          "answer": "Blue whale"
+        },
+        {
+          "question": "What do herbivores eat?",
+          "options": ["Plants", "Meat", "Both plants and meat", "Rocks"],
+          "answer": "Plants"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "DK Find Out! Space",
+      "author": "DK Publishing",
+      "category": "nonfiction",
+      "description": "Journey through space to learn about planets, stars, moons, and the mysteries of the universe.",
+      "coins": 10,
+      "questions": [
+        {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+          "answer": "Jupiter"
+        },
+        {
+          "question": "What is a moon?",
+          "options": ["A natural object that orbits a planet", "A type of star", "A small planet", "A comet"],
+          "answer": "A natural object that orbits a planet"
+        },
+        {
+          "question": "How many moons does Earth have?",
+          "options": ["One", "Two", "Three", "None"],
+          "answer": "One"
+        },
+        {
+          "question": "What is an astronaut?",
+          "options": ["A person who travels to space", "A type of rocket", "A planet", "A star"],
+          "answer": "A person who travels to space"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "DK Find Out! Dinosaurs",
+      "author": "DK Publishing",
+      "category": "nonfiction",
+      "description": "Travel back in time to learn about dinosaurs, when they lived, what they ate, and why they disappeared.",
+      "coins": 8,
+      "questions": [
+        {
+          "question": "When did dinosaurs live?",
+          "options": ["Millions of years ago", "Hundreds of years ago", "Last year", "They still live today"],
+          "answer": "Millions of years ago"
+        },
+        {
+          "question": "What do we call scientists who study dinosaurs?",
+          "options": ["Paleontologists", "Astronauts", "Doctors", "Teachers"],
+          "answer": "Paleontologists"
+        },
+        {
+          "question": "What are fossils?",
+          "options": ["Remains of ancient plants and animals", "Living animals", "Types of rocks", "Crystals"],
+          "answer": "Remains of ancient plants and animals"
+        },
+        {
+          "question": "What caused the dinosaurs to become extinct?",
+          "options": ["A large asteroid hit Earth", "They moved to another planet", "They are still alive", "They turned into birds only"],
+          "answer": "A large asteroid hit Earth"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "What If You Had Animal Teeth?",
+      "author": "Sandra Markle",
+      "category": "nonfiction",
+      "description": "Imagine having the teeth of different animals and learn why each animal's teeth are perfect for them.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "Why do different animals have different teeth?",
+          "options": ["To eat different kinds of food", "Just for looks", "To make sounds", "For no reason"],
+          "answer": "To eat different kinds of food"
+        },
+        {
+          "question": "What kind of teeth do sharks have?",
+          "options": ["Sharp teeth for catching fish", "Flat teeth for grinding", "No teeth at all", "Only one tooth"],
+          "answer": "Sharp teeth for catching fish"
+        },
+        {
+          "question": "What would happen if you had beaver teeth?",
+          "options": ["You could chew through wood", "You could fly", "You could swim faster", "You could see in the dark"],
+          "answer": "You could chew through wood"
+        },
+        {
+          "question": "Why is it good that humans have the teeth we do?",
+          "options": ["They help us eat many different foods", "They are the biggest teeth", "They are the sharpest teeth", "They never fall out"],
+          "answer": "They help us eat many different foods"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "What If You Had Animal Hair?",
+      "author": "Sandra Markle",
+      "category": "nonfiction",
+      "description": "Explore what it would be like to have the hair or fur of different animals and learn why it helps them survive.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "Why do animals have different types of fur or hair?",
+          "options": ["To help them survive in their environment", "Just for decoration", "To look pretty", "For no reason"],
+          "answer": "To help them survive in their environment"
+        },
+        {
+          "question": "Why do polar bears have thick white fur?",
+          "options": ["To stay warm and blend in with snow", "To look nice", "To swim faster", "To attract food"],
+          "answer": "To stay warm and blend in with snow"
+        },
+        {
+          "question": "What is special about porcupine quills?",
+          "options": ["They protect the porcupine from predators", "They help it fly", "They help it swim", "They make sounds"],
+          "answer": "They protect the porcupine from predators"
+        },
+        {
+          "question": "What would happen if you had skunk hair?",
+          "options": ["You could spray a smelly scent", "You could fly", "You could run very fast", "You could see in the dark"],
+          "answer": "You could spray a smelly scent"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "What If You Had Animal Eyes?",
+      "author": "Sandra Markle",
+      "category": "nonfiction",
+      "description": "Discover how different animals see the world and imagine what it would be like to have their eyes.",
+      "coins": 6,
+      "questions": [
+        {
+          "question": "Why do owls have big eyes?",
+          "options": ["To see well at night", "To look scary", "To see underwater", "To fly higher"],
+          "answer": "To see well at night"
+        },
+        {
+          "question": "What is special about chameleon eyes?",
+          "options": ["They can look in two directions at once", "They glow in the dark", "They are invisible", "They can see through walls"],
+          "answer": "They can look in two directions at once"
+        },
+        {
+          "question": "Why do eagles have excellent eyesight?",
+          "options": ["To spot prey from far away", "To look pretty", "To scare other animals", "To see underwater"],
+          "answer": "To spot prey from far away"
+        },
+        {
+          "question": "How do a fly's eyes help it?",
+          "options": ["They can see in many directions at once", "They can see colors only", "They are very small", "They can see through objects"],
+          "answer": "They can see in many directions at once"
+        }
+      ]
+    }
+  ]
 }
